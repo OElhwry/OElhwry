@@ -15,10 +15,10 @@
 
 ### About me
 
-- 🎓 Computer Science graduate — Queen Mary University of London
-- 💼 Open to **junior–mid level** frontend & full-stack roles (London / Remote)
-- 🛠️ Currently shipping **PeerFit v2** — a social sports platform on Next.js 15 + Supabase
-- 🎾 Off-screen: calisthenics, tennis, padel, and losing chess in increasingly creative ways
+🎓 Computer Science grad from Queen Mary, University of London  
+💼 Open to junior to mid level frontend and full stack roles (London or remote)  
+🛠️ Currently shipping **PeerFit v2**, a social sports platform on Next.js 15 + Supabase  
+☕ Runs on tea, late night refactors, and the one line bug fix that always turns into a full rewrite
 
 ---
 
@@ -46,39 +46,8 @@
 
 ---
 
-### Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🏟️ **[PeerFit v2](https://github.com/OElhwry/Peerfitv2)** | Social sports platform — discover sessions, match by skill, track stats. Live at peerfit.co.uk | Next.js 15 · TypeScript · Supabase · Tailwind |
-| 🎯 **[deadcenter](https://github.com/OElhwry/deadcenter)** | Precision reaction game with one rule: stop the dot. 20 hand-designed levels. | React · Vite · Web Audio API |
-| 🪐 **[Aphelion](https://github.com/OElhwry/Aphelion)** | Cinematic interactive solar system experience with scroll-driven storytelling. | Next.js · TypeScript · Framer Motion |
-| 💸 **[Kvit](https://github.com/OElhwry/Kvit)** | Zero-friction bill splitter that calculates the smallest set of transfers to settle up. | React · Vite |
-| 🧭 **[Emplorio](https://github.com/OElhwry/Emplorio)** | Chrome extension that auto-fills job applications and drafts AI cover letters across 9 major ATS systems. | TypeScript · Chrome APIs |
-
----
-
-### GitHub stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OElhwry&show_icons=true&hide_border=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OElhwry&layout=compact&hide_border=true&langs_count=8" height="160" />
+  <strong>↓ &nbsp; ↓ &nbsp; ↓</strong><br><br>
+  <em>the good stuff is pinned right below. enjoy the poke around.</em><br><br>
+  <strong>↓ &nbsp; ↓ &nbsp; ↓</strong>
 </p>
-
----
-
-<p align="center"><i>Open to new opportunities — the inbox is always open.</i></p>
-<!--
-**OElhwry/OElhwry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
