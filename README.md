@@ -15,10 +15,10 @@
 
 ### About me
 
-🎓 Computer Science grad from Queen Mary, University of London  
-💼 Open to junior to mid level frontend and full stack roles (London or remote)  
-🛠️ Currently shipping **PeerFit v2**, a social sports platform on Next.js 15 + Supabase  
-☕ Runs on tea, late night refactors, and the one line bug fix that always turns into a full rewrite
+- Computer Science grad from Queen Mary, University of London  
+- Open to junior to mid level frontend and full stack roles (London or remote)  
+- Currently shipping **PeerFit v2**, a social sports platform on Next.js 15 + Supabase  
+- Runs on tea, ambitious side projects, and bugs that somehow become feature ideas
 
 ---
 
