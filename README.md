@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oelhawary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
   </a>
-    <a href="https://oelhawary.com/">
-    <img src="https://img.shields.io/badge/oelhawary.com-000000?style=for-the-badge&logo=safari&logoColor=white" />
+  <a href="https://oelhawary.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <a href="mailto:omar.elhawary@hotmail.co.uk">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
