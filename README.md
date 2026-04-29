@@ -24,7 +24,7 @@
 
 - CS grad from Queen Mary, University of London
 - Open to junior → mid-level frontend & full-stack roles (London or remote)
-- Currently shipping **PeerFit v2** — a social sports platform built on Next.js 15 + Supabase
+- Currently shipping **PeerFit v2**, a social sports platform built on Next.js 15 + Supabase
 - Runs on tea, ambitious side projects, and bugs that somehow become features
 
 ---
