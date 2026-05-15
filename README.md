@@ -13,7 +13,7 @@
   <a href="https://oelhawary.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="mailto"omar@oelhawary.com">
+  <a href="mailto:omar@oelhawary.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
